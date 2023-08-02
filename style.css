@@ -1,4 +1,11 @@
-#addBtn{
-    
+#head{
+    margin-top: 70px;
+    text-align: center;
 }
 
+hr{
+    height: 2px;
+    border-width: 2px;
+    color: black;
+    background-color: black;
+}
