@@ -10,8 +10,8 @@ A Note-taking website using Vallina JavaScript in which we can create,delete and
 
 - ## Screenshot
 - 🌝 **Notes Added:**
-![image](site1.jpeg)
+![image](site2.jpeg)
 
 - 🌝 **Notes Searched:**
-![image](site2.jpeg)
+![image](site1.jpeg)
 
