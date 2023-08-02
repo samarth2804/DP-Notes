@@ -2,7 +2,7 @@
 
 <h1 align="center">DP Notes- A Note-Taking Site </h1>
 <p align="center">
-<img width="40%" src="![image](https://github.com/samarth2804/DP-Notes/assets/97388543/f166f591-2783-4f64-ad91-56d5f42972cd)
+<img width="40%" src="![image](./DP_Notes.png)
 " alt="main page">
 </p>
 <h3>
